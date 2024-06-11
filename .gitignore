@@ -1,0 +1,7 @@
+# Ignore files with .data and .posegraph extensions in the map directory
+
+map/*.data
+map/*.posegraph
+
+.vscode/
+

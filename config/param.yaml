@@ -1,0 +1,32 @@
+multi_robot:
+  world: lab
+  robots_number: 2
+
+  # Check there is a params file for each robot and set the initial position for each one
+  robot1:
+    namespace: robot1
+    # x: 0.0
+    # y: 0.0
+    # z: 0.0
+    # roll: 0.0
+    # pitch: 0.0
+    # yaw: 0.0
+
+  robot2:
+    namespace: robot2
+    # x: 1.0
+    # y: 1.0
+    # z: 0.0
+    # roll: 0.0
+    # pitch: 0.0
+    # yaw: 0.0
+
+  # robot3:
+  #   namespace: robot3
+  
+    # x: 1.0
+    # y: 2.0
+    # z: 0.0
+    # roll: 0.0
+    # pitch: 0.0
+    # yaw: 1.58
